@@ -13,10 +13,11 @@ a novel dynamic reconfiguration paradigm for Parameter-Efficient Fine-Tuning (PE
 
 Our proposed DAF consistently outperforms existing state-of-the-art PEFT methods on the challenging VTAB-1k benchmark.
 
-![Uploading cd8e1775506c17ee8f08212b6184503c.jpg…]()
 
 
 
+
+<img width="1249" height="710" alt="cd8e1775506c17ee8f08212b6184503c" src="https://github.com/user-attachments/assets/f81edae3-56af-4709-8986-e65004de049a" />
 
 
 
